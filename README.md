@@ -3,7 +3,7 @@ I'm a student who lives in South Korea who has an interest in technology and mal
 
 If you want to talk to me for some reason, you can reach me at contact@bluecreeper512.tech
 
-[![BlueCreeper512's GitHub stats](https://github-readme-stats.vercel.app/api??username=BlueCreeper512&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![BlueCreeper512's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueCreeper512&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **BlueCreeper512/bluecreeper512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
