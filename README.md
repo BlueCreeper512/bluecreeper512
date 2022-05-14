@@ -1,7 +1,7 @@
 ### Hi there, my name is BlueCreeper512!
 I'm a student who lives in South Korea who has an interest in technology and malware, and I'm also starting to learn programming and stuff.
 
-If you want to talk to me for some reason, you can reach me at contact@bluecreeper512.tech
+If you want to talk to me for some reason, you can reach me at bluecreeper512@gmail.com
 
 [![BlueCreeper512's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueCreeper512&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
