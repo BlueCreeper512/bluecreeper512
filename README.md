@@ -1,7 +1,7 @@
 ### Hi there, my name is BlueCreeper512!
 I'm a boring person who lives in South Korea and I have an interest in technology and cybersecurity. I also like video games. Read more about me on my boring website: https://bluecreeper512.com/
 
-If you want to talk to me for some reason, you can reach me at bluecreeper512@gmail.com
+If you want to talk to me for some reason, you can reach me at me@bluecreeper512.com
 
 [![BlueCreeper512's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlueCreeper512&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
