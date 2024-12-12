@@ -1,4 +1,4 @@
-### Hi there, my name is BlueCreeper512!
+### Hi there, I'm BlueCreeper512!
 
 You should visit my website: https://bluecreeper512.com/
 
